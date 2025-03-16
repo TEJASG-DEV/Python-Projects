@@ -1,0 +1,3 @@
+The game works flawlessly... however to mimic exact pong, you must ensure the score == 11 for the corresponding player to win
+
+whoever gets score 11 first wins...
