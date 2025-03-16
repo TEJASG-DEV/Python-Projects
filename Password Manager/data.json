@@ -1,0 +1,14 @@
+{
+    "Debian.org": {
+        "email": "example@example.com",
+        "password": "$3ry&vSR6JUEK"
+    },
+    "Ebay": {
+        "email": "example@ebay.com",
+        "password": "%e+Ef(5OX4jgQwN"
+    },
+    "Amazon": {
+        "email": "example@amazon.com",
+        "password": "SzJmfx$*4cPL5s&"
+    }
+}
